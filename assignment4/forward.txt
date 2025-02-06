@@ -1,0 +1,34 @@
+sum 
+int main()
+{
+	int sum;
+	
+	int beastmode;
+	
+	beastmode = 19;
+	
+	sum = beastmode;
+	
+	
+	int testa;
+	
+	testa = sum / beastmode;
+	
+	
+	if(testa > 5)
+		cout << "one Gorgillion" << endl;
+	
+	sum = sum * testa;
+	
+	cout << sum << endl;
+	
+	
+	
+	return 0;
+	
+	
+	
+	
+	
+	
+}

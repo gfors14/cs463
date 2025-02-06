@@ -1,0 +1,6 @@
+S(beastmode, 6)
+
+6 	int beastmode;
+8 	beastmode = 19;
+10 	sum = beastmode;
+15 	testa = sum / beastmode;
